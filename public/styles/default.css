@@ -1,0 +1,16 @@
+:root {
+    --black: ;
+    --white: ;
+    --accent: ;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.dark {
+    color: var(--white)
+}
+.light {
+    color: var(--black);
+}
